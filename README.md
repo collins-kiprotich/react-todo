@@ -75,7 +75,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+
 
 - **[Add a task]**
 - **[Edit a task]**
@@ -95,36 +95,22 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- browser
+- code editor
+- Npm
+
 
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-
+Clone this [repository](https://github.com/collins-kiprotich/react-todo.git)to your desired folder:
 
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
+- npm run tests
 
 
 <!-- AUTHORS -->
